@@ -1,0 +1,34 @@
+.dark .container {
+    display: flex;
+    gap: 140px;
+    margin-top: 150px;
+}
+
+.dark__info {
+    width: 540px;
+    height: 340px;
+    margin-top: 50px;
+}
+
+.dark__heading {
+    color: #333D4B;
+    font-family: "Fraunces";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 48px;
+}
+
+.dark__text {
+    color: #333D4B;
+    font-family: "Barlow";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    opacity: 0.8;
+}
+
+.dark__img {
+    margin-left: 70px;
+}

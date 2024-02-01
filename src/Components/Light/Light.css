@@ -1,0 +1,44 @@
+.light {
+    margin-top: 200px;
+}
+
+.light .container {
+    background-color: #2c343E;
+    width: 1280px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.light__info {
+    padding-top: 88px;
+    margin-left: 85px;
+    width: 540px;
+    height: 210px;
+}
+
+.light__heading {
+    color: #FEFCF7;
+    font-family: "Fraunces";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 48px;
+}
+
+.light__text {
+    color: #FEFCF7;
+    font-family: Barlow;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.light__img {
+    margin-left: 750px;
+    margin-top: -310px;
+    border-radius: 10px;
+}
+
+
+

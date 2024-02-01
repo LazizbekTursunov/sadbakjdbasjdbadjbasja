@@ -1,0 +1,52 @@
+.moon__list {
+    display: flex;
+    width: 1045px;
+    height: 262px;
+    align-items: center;
+    list-style-type: none;
+    gap: 95px;
+    margin-left: 70px;
+}
+
+.moon__title {
+    margin-left: 70px;
+    padding-left: 35px;
+    margin-bottom: 72px;
+    color: #83888F;
+    font-family: "Fraunces";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+}
+
+.moon__item {
+    width: 285px;
+    height: 280px;
+}
+
+.moon__heading {
+    color: #333D4B;
+    font-family: "Fraunces";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 36px;
+    margin: 0;
+    margin-top: 60px;
+    margin-bottom: 24px;
+}
+
+.moon__text {
+    display: block;
+    color: #333D4B;
+    font-family: "Barlow";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.moon {
+    margin-top: 150px;
+}
